@@ -6,5 +6,5 @@ def isprime(n):
         if n==2:
             return True
         if n%i==0:
-            return False#hello
+            return False#
     return True
